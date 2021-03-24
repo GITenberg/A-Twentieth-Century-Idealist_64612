@@ -1,0 +1,27 @@
+_repo: A-Twentieth-Century-Idealist_64612
+_version: 0.0.1
+alternative_title: A 20th Century Idealist
+creator:
+  author:
+    agent_name: Pettit, Henry
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '52983'
+    url: http://www.gutenberg.org/2009/agents/52983
+description: ''
+gutenberg_issued: '2021-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Travel -- Fiction'
+- !lcsh 'Americans -- Foreign countries -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Twentieth Century Idealist
+url: http://www.gutenberg.org/ebooks/64612
