@@ -1,6 +1,9 @@
 _repo: A-Twentieth-Century-Idealist_64612
 _version: 0.1.0
 alternative_title: A 20th Century Idealist
+covers:
+- cover_type: archival
+  image_path: 64612-h/images/cover.jpg
 creator:
   author:
     agent_name: Pettit, Henry
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52983'
     url: http://www.gutenberg.org/2009/agents/52983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64612#A-Twentieth-Century-Idealist
 gutenberg_issued: '2021-02-23'
 gutenberg_type: Text
 identifiers:
